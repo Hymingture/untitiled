@@ -24,7 +24,8 @@ public class Test {
         double d1 = dt.doubleValue();
         System.out.println(b1);
         System.out.println(i1);
-
+        System.out.println(d1);
+        System.out.println(f1);
     }
 }
 
