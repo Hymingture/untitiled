@@ -26,6 +26,7 @@ public class Test {
         System.out.println(i1);
         System.out.println(d1);
         System.out.println(f1);
+        System.out.println("hello");
     }
 }
 
